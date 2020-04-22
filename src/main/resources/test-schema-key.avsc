@@ -1,0 +1,15 @@
+{
+  "namespace": "com.ibm.eventstreams.connect.jdbcsink.avro",
+  "type": "record",
+  "name": "test-schema-key",
+  "fields": [
+    {
+      "name": "timestamp",
+      "type": "string"
+    },
+    {
+      "name": "id",
+      "type": "string"
+    }
+  ]
+}

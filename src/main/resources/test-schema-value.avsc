@@ -1,0 +1,19 @@
+{
+  "namespace": "com.ibm.eventstreams.connect.jdbcsink.avro",
+  "type": "record",
+  "name": "test-schema-value",
+  "fields": [
+    {
+      "name": "message_id",
+      "type": "string"
+    },
+    {
+      "name": "company_name",
+      "type": "string"
+    },
+    {
+      "name": "company_location",
+      "type": "string"
+    }
+  ]
+}
