@@ -1,0 +1,250 @@
+[
+    {
+        "name": "msg_id",
+        "type": "string"
+    },
+    {
+        "name": "cre_dt_tm",
+        "type": "string"
+    },
+    {
+        "name": "intr_bk_sttlm_dt",
+        "type": "string"
+    },
+    {
+        "name": "clr_sys_cd",
+        "type": "string"
+    },
+    {
+        "name": "instr_id",
+        "type": "string"
+    },
+    {
+        "name": "end_to_end_id",
+        "type": "string"
+    },
+    {
+        "name": "tx_id",
+        "type": "string"
+    },
+    {
+        "name": "svc_lvl",
+        "type": "string"
+    },
+    {
+        "name": "lcl_instrm",
+        "type": "string"
+    },
+    {
+        "name": "ctgy_purp",
+        "type": "string"
+    },
+    {
+        "name": "intr_bk_sttlm_amt",
+        "type": "double"
+    },
+    {
+        "name": "instg_agt_mmbid",
+        "type": "string"
+    },
+    {
+        "name": "instd_agt_mmbid",
+        "type": "string"
+    },
+    {
+        "name": "ultmt_dbtr_ind",
+        "type": "boolean"
+    },
+    {
+        "name": "ultmt_dbtr_lei",
+        "type": "string"
+    },
+    {
+        "name": "ultmt_dbtr_prvt_id_ind",
+        "type": "boolean"
+    },
+    {
+        "name": "ultmt_dbtr_initg_pty_nm",
+        "type": "string"
+    },
+    {
+        "name": "dbtr_nm",
+        "type": "string"
+    },
+    {
+        "name": "dbtr_pstl_adr_str_nm",
+        "type": "string"
+    },
+    {
+        "name": "dbtr_pstl_adr_bldg_nb",
+        "type": "string"
+    },
+    {
+        "name": "dbtr_pstl_adr_pst_cd",
+        "type": "string"
+    },
+    {
+        "name": "dbtr_pstl_adr_twn_nm",
+        "type": "string"
+    },
+    {
+        "name": "dbtr_pstl_adr_ctry_sub_dvsn",
+        "type": "string"
+    },
+    {
+        "name": "dbtr_pstl_adr_ctry",
+        "type": "string"
+    },
+    {
+        "name": "dbtr_pstl_adr_line",
+        "type": "string"
+    },
+    {
+        "name": "dbtr_lei",
+        "type": "string"
+    },
+    {
+        "name": "dbtr_acct_id",
+        "type": "string"
+    },
+    {
+        "name": "dbtr_agt_mmbid",
+        "type": "string"
+    },
+    {
+        "name": "cdtr_agt_mmbid",
+        "type": "string"
+    },
+    {
+        "name": "cdtr_ind",
+        "type": "boolean"
+    },
+    {
+        "name": "cdtr_ctry",
+        "type": "string"
+    },
+    {
+        "name": "cdtr_lei",
+        "type": "string"
+    },
+    {
+        "name": "cdtr_prvt_id_ind",
+        "type": "boolean"
+    },
+    {
+        "name": "cdtr_acct_id",
+        "type": "string"
+    },
+    {
+        "name": "cdtr_acct_prxy_id_ind",
+        "type": "boolean"
+    },
+    {
+        "name": "ultmt_cdtr_ind",
+        "type": "boolean"
+    },
+    {
+        "name": "ultmt_cdtr_ctry",
+        "type": "string"
+    },
+    {
+        "name": "ultmt_cdtr_lei",
+        "type": "string"
+    },
+    {
+        "name": "ultmt_cdtr_prvt_id_ind",
+        "type": "boolean"
+    },
+    {
+        "name": "instr_for_cdtr_agt_0_cd",
+        "type": "string"
+    },
+    {
+        "name": "instr_for_cdtr_agt_0_instr_inf",
+        "type": "string"
+    },
+    {
+        "name": "instr_for_cdtr_agt_1_cd",
+        "type": "string"
+    },
+    {
+        "name": "instr_for_cdtr_agt_1_instr_inf",
+        "type": "string"
+    },
+    {
+        "name": "instr_for_cdtr_agt_2_cd",
+        "type": "string"
+    },
+    {
+        "name": "instr_for_cdtr_agt_2_instr_inf",
+        "type": "string"
+    },
+    {
+        "name": "instr_for_cdtr_agt_3_cd",
+        "type": "string"
+    },
+    {
+        "name": "instr_for_cdtr_agt_3_instr_inf",
+        "type": "string"
+    },
+    {
+        "name": "instr_for_cdtr_agt_4_cd",
+        "type": "string"
+    },
+    {
+        "name": "instr_for_cdtr_agt_4_instr_inf",
+        "type": "string"
+    },
+    {
+        "name": "rltd_rmt_inf_rmt_id",
+        "type": "string"
+    },
+    {
+        "name": "rmt_lctn_dtls_mtd",
+        "type": "string"
+    },
+    {
+        "name": "rmt_lctn_dtls_elctrnc_adr",
+        "type": "string"
+    },
+    {
+        "name": "rmt_inf_ind",
+        "type": "boolean"
+    },
+    {
+        "name": "rfrd_doc_inf_nb",
+        "type": "string"
+    },
+    {
+        "name": "rfrd_doc_inf_rltd_dt",
+        "type": "string"
+    },
+    {
+        "name": "dscnt_apld_amt_tp",
+        "type": "double"
+    },
+    {
+        "name": "dscnt_apld_amt",
+        "type": "double"
+    },
+    {
+        "name": "tx_status",
+        "type": "string"
+    },
+    {
+        "name": "tx_rjct_rsn_cde",
+        "type": "string"
+    },
+    {
+        "name": "tx_rjct_addtl_inf",
+        "type": "string"
+    },
+    {
+        "name": "duplicate_code",
+        "type": "string"
+    },
+    {
+        "name": "msg_def_idr",
+        "type": "string"
+    }
+]

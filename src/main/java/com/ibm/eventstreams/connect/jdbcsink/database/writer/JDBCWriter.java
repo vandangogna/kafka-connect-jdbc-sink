@@ -148,7 +148,11 @@ public class JDBCWriter implements IDatabaseWriter{
         } catch (SQLException sQLException){
             logger.error(sQLException.toString());
             throw sQLException;
-        } finally {
+        } 
+        catch(Exception ex){
+            System.out.println(ex);
+        }
+        finally {
             if (connection != null) {
                 connection.close();
             }
